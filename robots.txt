@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youquya3.github.io/wangredianzi/sitemap.xml
